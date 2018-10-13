@@ -7,3 +7,4 @@
   * [Object Tracking in video](https://github.com/lokeshdangi/Computer-Vision/blob/master/module-5/Object%20tracking.ipynb)
   * [Capturing ROI](https://github.com/lokeshdangi/Computer-Vision/blob/master/module-6/Capturing%20ROI%20in%20image.ipynb)
   * [Tracking object movement](https://github.com/lokeshdangi/Computer-Vision/blob/master/module-5/Tracking%20object%20movement.ipynb)
+  * [QR Codes](https://github.com/lokeshdangi/Computer-Vision/blob/master/module-7/QR%20Code%20Scanner.ipynb)
